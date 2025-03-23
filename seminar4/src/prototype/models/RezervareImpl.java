@@ -1,4 +1,4 @@
-package prototype;
+package prototype.models;
 
 public class RezervareImpl extends Rezervare {
     protected boolean isInterior;

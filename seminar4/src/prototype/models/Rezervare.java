@@ -1,4 +1,4 @@
-package prototype;
+package prototype.models;
 
 public abstract class Rezervare {
     protected String nume;

@@ -1,5 +1,8 @@
 package prototype;
 
+import prototype.models.Rezervare;
+import prototype.models.RezervareImpl;
+
 public class Main {
     public static void main(String[] args) {
         Rezervare rez = new RezervareImpl("Andreea", 12, 20, 2);
